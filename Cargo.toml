@@ -1,0 +1,9 @@
+[package]
+name = "telescope"
+version = "0.1.0"
+authors = ["Gregory Langlais <general@gregorylanglais.com>"]
+edition = "2018"
+description = "Query Engine written in Rust"
+license = "MIT"
+
+[dependencies]
